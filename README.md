@@ -5,4 +5,4 @@ Public domain repository containing supporting data related to the paper "Quanti
 
 metadata.txt -> Patient´s clinical data and MHC group.
 
-RNA_raw_counts -> Raw count matrix from the PanImmune Panel (NanoString Technologies Inc., Seattle, WA, USA).
+RNA_raw_counts -> Raw count matrix of the PanImmune Panel (NanoString Technologies Inc., Seattle, WA, USA).
